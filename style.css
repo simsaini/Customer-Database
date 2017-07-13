@@ -1,0 +1,23 @@
+body{
+  display: flex;
+  flex-wrap: wrap;
+  width: auto;
+  text-align: center;
+}
+
+
+/*div{
+  display: flex;
+  flex-direction: row;
+}
+
+div > .pic{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+
+div > h2{
+
+}*/
